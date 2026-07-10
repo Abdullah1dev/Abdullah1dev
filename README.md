@@ -6,18 +6,26 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah1dev&color=0ea5e9&style=flat-square&label=Profile+Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer%20Internship-0ea5e9?style=flat-square&logo=briefcase&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20LLMs-1a1f6e?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
 ---
 
 ## 👋 About Me
 
-I'm a **Computer Science undergraduate** at Air University Islamabad, specializing in **AI & Machine Learning**. I build end-to-end AI applications — from RAG pipelines and LLM-powered assistants to agentic workflows — using Python, LangChain, and local LLMs.
+I'm a **Computer Science undergraduate** at Air University Islamabad, specializing in **AI & Machine Learning**. I build end-to-end AI applications — from RAG pipelines and LLM-powered assistants to agentic workflows — using Python, LangChain, LangGraph, and both REST APIs and locally-hosted models.
 
 I'm obsessed with building AI tools that actually work, not just demos. Every project in this profile is something I built from scratch, engineered with real architecture decisions, and can run and explain in detail.
 
 - 🎓 BSCS @ **Air University Islamabad** (AI/ML Specialization) — Expected 2028
-- 🔭 Currently building: **Agentic AI systems with LangGraph**
+- 🔭 Currently building: **Agentic AI systems with LangGraph + LangSmith**
 - 🌱 Actively learning: **LangGraph**, LLM fine-tuning, Hugging Face Transformers
-- 💡 Interested in: RAG architectures, agent orchestration, local LLM deployment
+- 💡 Interested in: RAG architectures, agent orchestration, LLM observability
 - 📍 Based in **Islamabad, Pakistan**
 - 📫 Reach me: [linkedin.com/in/abdullah-tahir-084307370](https://linkedin.com/in/abdullah-tahir-084307370)
 
@@ -30,6 +38,7 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
@@ -50,6 +59,7 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,15 +76,15 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI-Powered ATS Resume Analyzer</h3>
-      <p>End-to-end ATS system that parses resumes against job descriptions, generates a match score, highlights missing skills, and suggests AI-powered rewrites — all running on a locally-hosted LLM via Ollama.</p>
+      <h3>🤖 Agentic AI Chatbot — LangGraph + RAG</h3>
+      <p>Agentic chatbot that intelligently decides when to answer using the LLM and when to retrieve from uploaded PDFs via RAG. Features tool calling, persistent conversation memory via LangGraph Checkpointer, and full LangSmith tracing for observability.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Qwen2.5-FF6B35?style=flat-square&logo=ai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-0080FF?style=flat-square&logo=meta&logoColor=white"/>
       </p>
-      <a href="https://github.com/Abdullah1dev/ai-ats-resume-analyzer">
+      <a href="https://github.com/Abdullah1dev/LLM-Chatbot">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -95,7 +105,7 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
   <tr>
     <td width="50%" valign="top">
       <h3>📊 AI Data Analyst Assistant</h3>
-      <p>Interactive data analysis tool that ingests CSV datasets (10,000+ rows), generates statistical summaries, correlation heatmaps, and AI-powered business insights via local LLMs. Includes a multi-turn Q&A chatbot with session memory.</p>
+      <p>Interactive data analysis tool that ingests CSV datasets (10,000+ rows), generates statistical summaries, correlation heatmaps, and AI-powered business insights. Includes a multi-turn Q&A chatbot with session memory.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -107,15 +117,15 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 LLM Chatbot</h3>
-      <p>Conversational LLM chatbot with persistent memory and context management. Designed to explore different prompting strategies, conversation architectures, and local model integration patterns.</p>
+      <h3>🎯 AI-Powered ATS Resume Analyzer</h3>
+      <p>End-to-end ATS system that parses resumes against job descriptions, generates a match score, highlights missing skills, and suggests AI-powered rewrites using structured prompt engineering and JSON response parsing.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qwen2.5-FF6B35?style=flat-square&logo=ai&logoColor=white"/>
       </p>
-      <a href="https://github.com/Abdullah1dev/LLM-Chatbot">
+      <a href="https://github.com/Abdullah1dev/ai-ats-resume-analyzer">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -137,6 +147,20 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah1dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9"/>
+
+---
+
 ## 🧠 Currently Building
 
 ```python
@@ -145,8 +169,8 @@ class AbdullahTahir:
         self.role        = "Aspiring AI Engineer"
         self.university  = "Air University Islamabad (BSCS, AI/ML)"
         self.currently   = ["LangGraph agentic systems", "LLM fine-tuning", "Hugging Face Transformers"]
-        self.tech_stack  = ["LangChain", "LangGraph", "RAG", "FAISS", "ChromaDB", "Ollama", "Streamlit"]
-        self.interests   = ["Agentic AI", "Local LLM deployment", "RAG architecture", "Prompt engineering"]
+        self.tech_stack  = ["LangChain", "LangGraph", "LangSmith", "RAG", "FAISS", "OpenRouter", "Streamlit"]
+        self.interests   = ["Agentic AI", "LLM Observability", "RAG architecture", "Prompt engineering"]
         self.seeking     = "AI Engineer Internship — Open to opportunities"
 
     def say_hi(self):
