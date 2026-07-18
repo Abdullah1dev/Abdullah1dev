@@ -134,26 +134,8 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah1dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah1dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullah1dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
-
----
 
 ## 📊 Contribution Graph
 
