@@ -149,16 +149,11 @@ I build end-to-end AI applications — RAG pipelines, agentic workflows, and LLM
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4"/>
 </p>
 
----
 
-## ⏱️ This Week I Coded
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&layout=compact"/>
-</p>
 
 ---
 
