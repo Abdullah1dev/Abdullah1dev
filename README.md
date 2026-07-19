@@ -1,15 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0ea5e9&height=200&section=header&text=Abdullah%20Tahir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%82%7C%E2%80%82%20LLM%20Applications%20%E2%80%82%7C%E2%80%82%20RAG%20Pipelines%20%E2%80%82%7C%E2%80%82%20Agentic%20AI&descAlignY=60&descSize=18&descColor=94a3b8"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+AI+systems+with+Python+%26+LangChain;RAG+Pipelines+%7C+LLM+Apps+%7C+Agentic+Workflows;LangGraph+%7C+FAISS+%7C+Ollama+%7C+Streamlit;CS+Undergrad+%40+Air+University+Islamabad" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Decode+Labs+%26+Neurofive+Solutions;Building+RAG+Pipelines+%7C+LLM+Apps+%7C+Agentic+AI;LangGraph+%7C+LangSmith+%7C+FAISS+%7C+FastAPI;CS+Undergrad+%40+Air+University+Islamabad" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah1dev&color=0ea5e9&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer%20Internship-0ea5e9?style=flat-square&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-AI%20Engineer%20Intern-0ea5e9?style=flat-square&logo=briefcase&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20LLMs-1a1f6e?style=flat-square&logo=openai&logoColor=white"/>
 </p>
@@ -18,14 +16,15 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science undergraduate** at Air University Islamabad, specializing in **AI & Machine Learning**. I build end-to-end AI applications — from RAG pipelines and LLM-powered assistants to agentic workflows — using Python, LangChain, LangGraph, and both REST APIs and locally-hosted models.
+I'm a **Computer Science undergraduate** at Air University Islamabad, specializing in **AI & Machine Learning**, currently working as an **AI Engineer Intern at Decode Labs** and **Agentic AI & Prompt Engineering Intern at Neurofive Solutions**.
 
-I'm obsessed with building AI tools that actually work, not just demos. Every project in this profile is something I built from scratch, engineered with real architecture decisions, and can run and explain in detail.
+I build end-to-end AI applications — RAG pipelines, agentic workflows, and LLM-powered tools — using Python, LangChain, LangGraph, FastAPI, and both REST APIs and locally-hosted models. Every project I've built is something I can run, explain, and defend in detail.
 
 - 🎓 BSCS @ **Air University Islamabad** (AI/ML Specialization) — Expected 2028
-- 🔭 Currently building: **Agentic AI systems with LangGraph + LangSmith**
-- 🌱 Actively learning: **LangGraph**, LLM fine-tuning, Hugging Face Transformers
-- 💡 Interested in: RAG architectures, agent orchestration, LLM observability
+- 💼 **AI Engineer Intern** @ Decode Labs
+- 💼 **Agentic AI & Prompt Engineering Intern** @ Neurofive Solutions
+- 🔭 Currently building: **Advanced Agentic AI systems with HITL + LangGraph**
+- 💡 Interested in: RAG architectures, agent orchestration, LLM observability, HITL workflows
 - 📍 Based in **Islamabad, Pakistan**
 - 📫 Reach me: [linkedin.com/in/abdullah-tahir-084307370](https://linkedin.com/in/abdullah-tahir-084307370)
 
@@ -105,11 +104,11 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
   <tr>
     <td width="50%" valign="top">
       <h3>📊 AI Data Analyst Assistant</h3>
-      <p>Interactive data analysis tool that ingests CSV datasets (10,000+ rows), generates statistical summaries, correlation heatmaps, and AI-powered business insights. Includes a multi-turn Q&A chatbot with session memory.</p>
+      <p>Full-stack AI data analysis platform — Streamlit frontend + FastAPI backend — that ingests CSV datasets of 10,000+ rows, generates EDA reports, correlation heatmaps, and LLM-generated business insights with a multi-turn Q&A chatbot.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
       </p>
       <a href="https://github.com/Abdullah1dev/ai-data-analyst-assistant">
@@ -134,8 +133,26 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 
 ---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah1dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah1dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abdullah1dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+---
 
 ## 📊 Contribution Graph
 
@@ -148,15 +165,15 @@ I'm obsessed with building AI tools that actually work, not just demos. Every pr
 ```python
 class AbdullahTahir:
     def __init__(self):
-        self.role        = "Aspiring AI Engineer"
-        self.university  = "Air University Islamabad (BSCS, AI/ML)"
-        self.currently   = ["LangGraph agentic systems", "LLM fine-tuning", "Hugging Face Transformers"]
-        self.tech_stack  = ["LangChain", "LangGraph", "LangSmith", "RAG", "FAISS", "OpenRouter", "Streamlit"]
+        self.role        = "AI Engineer Intern"
+        self.companies   = ["Decode Labs", "Neurofive Solutions"]
+        self.university  = "Air University Islamabad (BSCS, AI/ML — 2028)"
+        self.currently   = ["Advanced LangGraph agents with HITL", "LLM fine-tuning", "Advanced RAG systems"]
+        self.tech_stack  = ["LangChain", "LangGraph", "LangSmith", "RAG", "FAISS", "FastAPI", "OpenRouter"]
         self.interests   = ["Agentic AI", "LLM Observability", "RAG architecture", "Prompt engineering"]
-        self.seeking     = "AI Engineer Internship — Open to opportunities"
 
     def say_hi(self):
-        print("Thanks for stopping by! Feel free to explore my projects or reach out.")
+        print("Thanks for visiting! Feel free to explore my projects or reach out.")
 
 me = AbdullahTahir()
 me.say_hi()
@@ -168,20 +185,20 @@ me.say_hi()
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-tahir-084307370">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:242677@students.au.edu.pk">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Abdullah1dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Open to AI/ML internship opportunities. If you're working on something interesting in the LLM or agentic AI space — let's talk.</i>
+  <i>Currently interning as an AI Engineer. Always open to interesting AI engineering conversations.</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1a1f6e,100:0d1117&height=120&section=footer"/>
