@@ -7,9 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah1dev&color=0ea5e9&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-AI%20Engineer%20Intern-0ea5e9?style=flat-square&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer%20Intern-Decode%20Labs%20%26%20Neurofive-0ea5e9?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20LLMs-1a1f6e?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Building-LangGraph%20%7C%20RAG%20%7C%20Agentic%20AI-1a1f6e?style=flat-square"/>
 </p>
 
 ---
@@ -150,6 +150,14 @@ I build end-to-end AI applications — RAG pipelines, agentic workflows, and LLM
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdullah1dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+---
+
+## ⏱️ This Week I Coded
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&layout=compact"/>
 </p>
 
 ---
